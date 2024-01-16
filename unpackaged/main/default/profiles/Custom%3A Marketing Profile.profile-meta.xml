@@ -3603,5 +3603,8 @@
         <tab>standard-WorkTypeGroup</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
+    <layoutAssignments>
+        <layout>Account-Account %28Marketing%29 Layout</layout>
+    </layoutAssignments>
     <userLicense>Salesforce</userLicense>
 </Profile>
