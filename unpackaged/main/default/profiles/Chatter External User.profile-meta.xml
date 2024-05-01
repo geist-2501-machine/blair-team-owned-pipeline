@@ -3468,5 +3468,8 @@
         <tab>standard-WorkTypeGroup</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
+    <layoutAssignments>
+        <layout>Task-Task Layout</layout>
+    </layoutAssignments>
     <userLicense>Chatter External</userLicense>
 </Profile>
