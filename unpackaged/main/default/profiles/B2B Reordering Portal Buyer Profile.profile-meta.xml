@@ -3564,6 +3564,12 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <layoutAssignments>
+        <layout>AssociatedLocation-Associated Location Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>ContractLineItem-Contract Line Item Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Task-Task Layout</layout>
     </layoutAssignments>
     <userLicense>External Apps Login</userLicense>
