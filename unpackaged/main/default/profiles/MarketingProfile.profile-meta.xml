@@ -3536,5 +3536,11 @@
         <tab>standard-WorkTypeGroup</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
+    <layoutAssignments>
+        <layout>AssociatedLocation-Associated Location Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>ContractLineItem-Contract Line Item Layout</layout>
+    </layoutAssignments>
     <userLicense>Salesforce</userLicense>
 </Profile>

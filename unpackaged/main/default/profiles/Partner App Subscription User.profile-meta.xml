@@ -3484,5 +3484,11 @@
         <tab>standard-WorkTypeGroup</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
+    <layoutAssignments>
+        <layout>AssociatedLocation-Associated Location Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>ContractLineItem-Contract Line Item Layout</layout>
+    </layoutAssignments>
     <userLicense>Partner App Subscription</userLicense>
 </Profile>
